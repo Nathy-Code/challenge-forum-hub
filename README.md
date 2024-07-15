@@ -2,7 +2,7 @@
 
 FórumHub
 Descrição
-Projeto criado como um challenger da formação spring para a turma do ONE (oracle next education)
+Projeto criado como um challenge da formação spring para a turma do ONE (oracle next education)
 Dependências
 - Necessario possuir o Java instalado
 - Necessario possuir o Mysql instalado
